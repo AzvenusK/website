@@ -28,6 +28,8 @@ body{
 	font-size: 12px;
 }
 .pages{
+	height: 500px;
+	width: 300px;
 	text-align: center;
 	text-transform: uppercase;
 }
