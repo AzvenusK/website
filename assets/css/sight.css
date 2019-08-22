@@ -9,7 +9,7 @@ body{
 	background-position: center center;
 	background-attachment: fixed;
 	text-transform: uppercase;
-	background: url('../images/showcase.png');
+	background: url('../images/images.jpg');
 	margin-bottom: 100px;
 }
 .sight
@@ -62,4 +62,4 @@ footer{
 	.page-img{
 		margin-bottom: 50px;
 	}
-} 
+}
