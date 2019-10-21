@@ -28,7 +28,7 @@
 
 -----------------------------------------------------------------------------------*/
 /*===========================
-    1. COMMON css 
+    1. COMMON css
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
@@ -158,6 +158,8 @@ p {
       background-color: #754ef9;
       color: #fff;
       border-color: #754ef9; }
+
+
 
 /*===== All Section Title Style =====*/
 .section-title .title {
@@ -445,7 +447,7 @@ p {
     -o-transform: rotate(-130deg);
     transform: rotate(-130deg); } }
 /*===========================
-    2.HEADER css 
+    2.HEADER css
 ===========================*/
 .navigation {
   -webkit-box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
@@ -785,7 +787,7 @@ p {
           border-color: #754ef9; }
 
 /*===========================
-        3.ABOUT css 
+        3.ABOUT css
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .about-area {
@@ -869,7 +871,7 @@ p {
       width: 0; }
 
 /*===========================
-        4.SERVICES css 
+        4.SERVICES css
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area {
@@ -917,7 +919,7 @@ p {
     box-shadow: 0px 0px 21px 0px rgba(152, 152, 152, 0.23); }
 
 /*===========================
-    4.CALL TO ACTION css 
+    4.CALL TO ACTION css
 ===========================*/
 .call-to-action {
   position: relative;
@@ -978,7 +980,7 @@ p {
         border-color: #fff; }
 
 /*===========================
-        5.WORK css 
+        5.WORK css
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .work-area {
@@ -1106,7 +1108,7 @@ p {
       opacity: 1; }
 
 /*===========================
-       6.PRICING css 
+       6.PRICING css
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .pricing-area {
@@ -1164,7 +1166,7 @@ p {
       color: #754ef9; }
 
 /*===========================
-       7.BLOG css 
+       7.BLOG css
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .blog-area {
@@ -1241,7 +1243,7 @@ p {
       color: #fff; }
 
 /*===========================
-       8.CONTACT css 
+       8.CONTACT css
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .contact-area {
@@ -1330,7 +1332,7 @@ p.form-message.success, p.form-message.error {
   box-shadow: 0px 0px 12px 0px rgba(152, 152, 152, 0.46); }
 
 /*===========================
-       9.FOOTER css 
+       9.FOOTER css
 ===========================*/
 .footer-widget {
   background-color: #152136; }
@@ -1409,7 +1411,7 @@ p.form-message.success, p.form-message.error {
     border-color: #754ef9; }
 
 /*===========================
-      10.PAGE BANNER css 
+      10.PAGE BANNER css
 ===========================*/
 .page-banner {
   margin-top: 95px;
@@ -1469,7 +1471,7 @@ p.form-message.success, p.form-message.error {
         transform: translateY(-50%); }
 
 /*===========================
-   10.SINGLE BLOG PAGE css 
+   10.SINGLE BLOG PAGE css
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .single-blog-page {
