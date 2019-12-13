@@ -1,2 +1,2 @@
-# SIGHT
-Free Responsive Web Template
+# Anmol Kumar
+My very own portfolio website.
