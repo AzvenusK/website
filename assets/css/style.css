@@ -1255,7 +1255,7 @@ p {
     padding-bottom: 80px; } }
 
 .contact-box {
-  background-color: #fff;
+  background-color: #000;
   border: 1px solid #ddd;
   padding: 30px 35px;
   -webkit-transition: all 0.3s ease-out 0s;
